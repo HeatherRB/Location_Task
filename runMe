@@ -1,0 +1,3 @@
+
+javac LocationTask.java
+java LocationTask
