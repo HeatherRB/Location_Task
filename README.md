@@ -1,4 +1,0 @@
-LocationTask
-============
-
-Postcode matching task
